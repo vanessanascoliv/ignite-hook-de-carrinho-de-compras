@@ -51,6 +51,7 @@ ignite-hook-de-carrinho-de-compras
 # Instale as dependências
 yarn
 # Execulte a aplicação em modo de desenvolvimento
+yarn server
 yarn start
 
 # O servidor iniciára na porta: 3000 - acesse <http://localhost:3000>
