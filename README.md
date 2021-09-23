@@ -1,37 +1,42 @@
-# README
-
-<img  style="display: block; margin-left: auto; margin-right: auto" src="./src/assets/images/logo.svg" alt="Logo"/></br>
+###### README.md
+<div align="center">
+<img src="./src/assets/images/logo.svg" alt="Logo"/></br>
+</div>
 <h1 align="center" style="font-weight:bold; color:#61DBFB">Hook de Carrinho de Compras</h1>
 
-<p align="center" style="font-size:18px; font-weight:bold" >
+<h3 align="center">
   <a  href="#sobre">Sobre</a> |
   <a href="#tecnologias">Tecnologias</a> |
   <a href="#layout">Layout</a> |
   <a href="#como-execultar">Como-execultar</a> 
-</p>
+</h3>
 
 # Sobre
-<p style="font-size:22px">Projeto referente ao chapter II da Trilha de ReactJS, onde o desafio foi criar um hook para gerenciar um carrinho de compras.</p>
+<h4 style="font-size:22px">Aplicação desenvolvida na Trilha de ReactJS da Rocketseat onde o desafio foi criar um hook para gerenciar um carrinho de compras.</h4> 
+<h4>Funcionalidades aplicadas:</h4> 
+<p>- Adicionar um novo produto ao carrinho;</P>
+<p>- Remover um produto do carrinho;</P>
+<p>- Alterar a quantidade de um produto no carrinho;</P>
+<p>- Cálculo dos preços sub-total e total do carrinho;</P>
+<p>- Validação de estoque;</P>
+<p>- Exibição de mensagens de erro;</P>
 
 
 
 
 # Tecnologias
-
- <img style="display: block"  height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></br>
- <img style="display: block"  height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></br>
- <img style="display: block"  height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></br>
- <img style="display: block"  height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/></br>
- <img style="display: block"  height="80" width="60" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"/></br>
- 
+<div display="flex" >
+ <img  height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+ <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+ <img  height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+ <img   height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+ <img   height="80" width="60" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"/>
+ </div>
 
 
 # Layout
-<p>A</p>
-<p>A</p>
-<p>A</p>
-<p>A</p>
-<p>A</p>
+![imagem](https://github.com/vanessanascoliv/ignite-hook-de-carrinho-de-compras/blob/master/src/assets/images/layout-product.png)
+![imagem](https://github.com/vanessanascoliv/ignite-hook-de-carrinho-de-compras/blob/master/src/assets/images/layout-cart.png)
 
 
 
